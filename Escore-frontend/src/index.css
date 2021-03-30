@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #ecf0f1;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.papergriddiv{
+  padding: 20px;
+  margin: 10px;
+}
+
+.btn-header-menu{
+  color: white!important;
+  padding-left: 10px!important;
+  padding-right: 10px!important;
+  height: 100%;
+}
+
+
+.btn-header-menu:hover{
+  background: #fffdfd24!important;
+}
+
+.btn-header-menu.active{
+  background: #fffdfd24!important;
+}
+
+.grid-header{
+  margin: 2px!important;
+  margin-bottom: 15px!important;
+  font-size: 1.3em;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 3px;
+}
+
+.active .btn-header-menu{
+  background: #fffdfd24!important;
+}
+.space-mrg-4{
+  margin-left: 4px!important;
+}
+
+.btn-orange{
+  background-color: orange!important;
+  color: orange!important;
+}
+
+#max-width-dialog-title{
+  border-bottom: 1px solid #a9a9a952!important;
+}
+
+
+
+.intro-header {
+  height: unset !important;
+}
+.intro-2 {
+  background: url("pictures\\esports-home1.jpg")no-repeat center center;
+  background-size: cover;
+}
+.view {
+ height: 100vh !important;
+}
+.btn .fa {
+  margin-left: 3px;
+}
+
+.rgba-gradient .full-bg-img {
+  background: linear-gradient(45deg, rgba(42, 27, 161, 0.6), rgba(29, 210, 177, 0.6) 100%);
+}
+
+h1 {
+    color:white;
+    text-align: center;
+    
+}
+.full-bg-img{
+   height: 500px;
+}
+.header-text {
+  padding-top:200px;
+}
+.buttons{
+  text-align:center;
+}
+.buttons-class {
+  padding-top:50px;
+  display:inline-block;
+
+}
+
+
+

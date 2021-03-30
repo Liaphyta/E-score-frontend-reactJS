@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7267be9f-2223-4a4f-8dde-1e230d6caab0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/Template.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../public/viplogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/auth/login/auth.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/auth/login/login.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/model/group.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/model/user.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/app/app.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/assigned_subscriber/assigned_subscriber.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/assigned_subscriber/assigned_subscriber.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/audit/audit.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/audit/audit.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/calendar/calendar.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/calendar/calendar.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/dashboard/dashboard.actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/dashboard/dashboard.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/dashboard/dashboard.reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/dashboard/dashboard.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/dashboard/dashboard.saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/disconnections/disconnections.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/disconnections/disconnections.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/error/unauthorized.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/groups/create.groups/create.groups.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/groups/delete.groups/delete.groups.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/groups/details.groups/details.groups.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/groups/groups.actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/groups/groups.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/groups/groups.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/groups/groups.reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/groups/groups.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/groups/groups.saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/groups/manage.groups/adduser.dialog.groups.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/groups/update.groups/update.groups.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/network_operators/network_operators.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/network_operators/network_operators.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/ported_numbers/ported_numbers.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/ported_numbers/ported_numbers.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/porting/porting.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/porting/porting.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/privileges/manage.privileges/addgroup.dialog.privileges.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/privileges/manage.privileges/adduser.dialog.privileges.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/privileges/privileges.actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/privileges/privileges.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/privileges/privileges.reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/privileges/privileges.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/privileges/privileges.saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/profile/profile.actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/profile/profile.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/profile/profile.reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/profile/profile.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/profile/profile.saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/settings/settings.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/settings/system_settings.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/users/create.users/create.users.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/users/delete.users/delete.users.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/users/details.users/details.users.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/users/update.users/resetPassword.users.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/users/update.users/update.users.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/users/users.actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/users/users.container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/users/users.reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/users/users.repo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/module/users/users.saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/shared/AppHeader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/shared/Main.Reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/shared/MainLayout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/shared/NavbarMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/shared/NavbarRight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/shared/SidebarMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/shared/SnackbarContentWrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/shared/app.properties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/serviceWorker.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7267be9f-2223-4a4f-8dde-1e230d6caab0" name="Default Changelist" comment="" />
+      <created>1562274784644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562274784644</updated>
+      <workItem from="1562274788426" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
