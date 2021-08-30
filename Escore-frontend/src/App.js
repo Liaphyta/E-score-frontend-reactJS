@@ -33,6 +33,8 @@ import ProfileContainer from './modules/users/ProfileContainer';
 import RegisterContainer from './shared/RegisterContainer';
 import StatisticsContainer from './shared/StatisticsContainer';
 import IndividualStatisticsContainer from './shared/IndividualStatisticsContainer';
+import LolNetworkContainer from './modules/LeagueOfLegends/LolNetworkContainer';
+import LolLeagueNetworkContainer from './modules/LeagueOfLegends/LolLeagueNetworkContainer';
 
 
 export function hasRole(roles) {
@@ -223,7 +225,9 @@ class App extends React.Component {
             <Route path="/profile" component={ProfileContainer}/>
             <Route path="/register" component={RegisterContainer}/>
             <Route path="/statistics" component={StatisticsContainer}/>
-            <Route path="/statistics/:id" component={IndividualStatisticsContainer} /> 
+            <Route path="/statistics/:id" component={IndividualStatisticsContainer} />
+            <Route path="/lol/leagues/network" component={LolNetworkContainer}/>
+            <Route path="/lol/network/:league" component={LolLeagueNetworkContainer}/>
           </div>
         }
       </Router>

@@ -38,8 +38,8 @@ export default class StatisticsContainer extends React.Component{
             <div className="intro-header">
             <section className="view intro-2 rgba-gradient" style={{overflow:'auto'}}>
             <NavBar></NavBar>
-            <Button variant="contained" color="secondary" style={{marginTop:'400px',float:'left',marginLeft:'10px'}}><ChevronLeftIcon/>Dota 2 statistics</Button>
-            <Paper style={{maxHeight:'800px',overflow:'auto',position:'absolute',left:'50%',marginTop:'30px',marginLeft:'-750px',width:'1500px', boxShadow: 'none'}}>
+            <Button variant="contained" color="secondary" style={{marginTop:'300px',float:'left',marginLeft:'10px'}}><ChevronLeftIcon/>Dota 2 statistics</Button>
+            <Paper style={{maxHeight:'500px',overflow:'auto',position:'absolute',left:'50%',marginTop:'30px',marginLeft:'-479px',width:'70%', boxShadow: 'none'}}>
                 <List>
                     {   
                         this.state.data &&
@@ -57,7 +57,7 @@ export default class StatisticsContainer extends React.Component{
                }
             </List>   
             </Paper>
-            <Button variant="contained" style={{marginTop:'400px',float:'right',marginRight:'15px'}}>CS-Go Statistics<KeyboardArrowRightIcon/></Button>
+            <Button variant="contained" style={{marginTop:'300px',float:'right',marginRight:'15px'}}>CS-Go Statistics<KeyboardArrowRightIcon/></Button>
             </section>
             </div>
           )

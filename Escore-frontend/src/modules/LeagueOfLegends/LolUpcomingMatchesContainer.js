@@ -74,7 +74,8 @@ export default class LolUpcomingMatchesContainer extends React.Component{
             </div>
           </div>
             <div className="col-4">
-              <Card style={{float:'right',textAlign:'center',marginTop:'200px',paddingTop:'5px',background: 'rgba(255,193,7, 0.8)'}}>
+            <Link to="/lol/leagues/network" style={{float:'left',paddingTop:'15%',paddingLeft:'20%'}}><Button variant="warning" style={{height:'60px',width:'100%'}}>Explore the network of matches</Button></Link>
+              <Card style={{float:'right',textAlign:'center',marginTop:'20%',paddingTop:'5px',background: 'rgba(255,193,7, 0.8)'}}>
                   <p style={{color:'black'}}>League of Legends is a 3D, third-person multiplayer online battle arena
                      game.The game consists of three current running game modes: Summoner's Rift, Twisted Treeline, and Howling Abyss.
                      Another game mode, The Crystal Scar, has since been removed.Players compete in matches, 
